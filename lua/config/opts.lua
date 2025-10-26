@@ -1,4 +1,3 @@
-require("bufferline").setup{}
 require("lualine").setup{
   options = {
     theme = 'tokyonight',
