@@ -3,8 +3,8 @@ return {
   opts = {
     strategies = {
       chat = {
-        adapter = "anthropic",
-        model = "claude-sonnet-4-5",
+        adapter = "gemini",
+        model = "gemini-2.5-flash-lite",
       },
     },
     opts = {
